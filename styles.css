@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+form{
+    margin-top: 10px;
+    margin-left: 2px;
+    border-color: brown;
+    border-width: 4px;
+    border-style: solid;
+    width: 35%;
+    padding:10px;
+}
+
+.name, .address, .mobile, .comment{
+    padding:5px;
+    margin-top:5px;
+   
+}
+
+.reset{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1{
+    color:brown;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
